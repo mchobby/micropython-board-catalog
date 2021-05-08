@@ -4,12 +4,13 @@ board_id: "<board id, EG: garatronic_pybstick26std>"
 title: "<board name, EG: PYBStick 26 Standard> Download"
 name: "<board name, EG: PYBStick 26 Standard>"
 manufacturer: "<board manufacturer, EG: Garatronic>"
-board_url: ""
+board_url: "<url to board details + documentation>"
 board_image: "shortname.jpg, EG: garatronic_pybstick26std.jpg"
 date_added: 2020-3-31
 downloads_display: true
-download_instructions: "url"
+download_instructions: "<url to install MicroPython on that board>"
 mcu: "MCU identification, EG: STM32F411RE"
+gpio: "Number of GPIOs accessibles on board. EG: 8"
 ram: "MCU RAM in Kb: EG: 128"
 flash: "Internal MCU Flash in Kb, EG: 512"
 ext_ram: "External RAM in Kb: EG: 4096"
@@ -20,6 +21,9 @@ mcu_category:
   - SAMD21
   - SAMD51
   - RP2040
+  - ESP32
+  - ESP8266
+  - RISC-V
 
 machine_api:
   - Pin
