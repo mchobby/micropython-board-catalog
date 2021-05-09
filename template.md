@@ -16,7 +16,7 @@ flash: "Internal MCU Flash in Kb, EG: 512"
 ext_ram: "External RAM in Kb: EG: 4096"
 ext_flash: "External RAM in Kb: EG: 4096"
 
-mcu_category:
+mcu_category: "One of the following values... then remove the list"
   - STM32
   - SAMD21
   - SAMD51
@@ -48,6 +48,8 @@ features:
   - Battery Charging
   - GPS
   - Camera
+  - USB Host
+  - SDCard
 ---
 
 The board description should be written to inform a what makes the board unique and link to relevant info about it.
