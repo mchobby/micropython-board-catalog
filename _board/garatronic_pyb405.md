@@ -33,8 +33,6 @@ features:
   - SDCard
 ---
 
--------------> TODO 
-
 The PYB405 is like the MicroPython Pyboard (same microcontroller) but equipped with a Raspberry-Pi's GPIO (2x20-pin).
 
 It works like any MicroPython and feature some interesting improvements. Everything learned from Pyboard can be applied to the PYB405.

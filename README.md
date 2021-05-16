@@ -10,30 +10,59 @@ Here a list of board sheets/pictures to create.
   * Nucleo & Discovery
   * Espruino Pico
   * Wipy modules
-  * Generic ESP8266 , ESP32
-  * TinyPico
+
+* TinyPico
+  * tinypico_tinypico : https://www.tinypico.com/ (see also https://www.adafruit.com/product/5028 )
+
+* Generic ESP8266
+  * adafruit_feather_esp8266 : __done__ 
+  * adafruit_huzzah_esp8266 : __done__
+  * olimex_esp8266_dev : https://www.olimex.com/Products/IoT/ESP8266/MOD-WIFI-ESP8266-DEV/open-source-hardware
+  * olimex_esp8266_evb : https://www.olimex.com/Products/IoT/ESP8266/ESP8266-EVB/open-source-hardware
+  * to complete for Pimoroni
+  * to complete for SparkFun
+
+* Generic ESP32
+  * adafruit_feather_esp32 : https://www.adafruit.com/product/3405
+  * adafruit_huzzah_esp32 : https://www.adafruit.com/product/4172
+  * adafruit_airlift_esp32 : https://www.adafruit.com/product/4201 (update firmware: https://learn.adafruit.com/adafruit-airlift-breakout/upgrade-external-esp32-airlift-firmware )
+  * olimex_esp32_devkit_lipo : https://www.olimex.com/Products/IoT/ESP32/ESP32-DevKit-LiPo/open-source-hardware
+  * olimex_esp32_wrover_lipo : https://www.olimex.com/Products/IoT/ESP32/ESP32-DevKit-LiPo/open-source-hardware (to check, 8 MB PsRam)
+  * olimex_esp32_iso : https://www.olimex.com/Products/IoT/ESP32/ESP32-POE-ISO/open-source-hardware
+  * olimex_esp32_poe : https://www.olimex.com/Products/IoT/ESP32/ESP32-POE/open-source-hardware
+  * olimex_esp32_pro : https://www.olimex.com/Products/IoT/ESP32/ESP32-PRO/open-source-hardware (to check, 4 Mio Flash, 4 Mio PSRam)
+  * olimex_esp32_evb : https://www.olimex.com/Products/IoT/ESP32/ESP32-EVB/open-source-hardware 
+  * olimex_esp32_gateway : https://www.olimex.com/Products/IoT/ESP32/ESP32-GATEWAY/open-source-hardware
+  * to complete for Pimoroni
+  * to complete for SparkFun
+
 * garatronic_pybstick26std : __done__
 * garatronic_pybstick26lite : https://shop.mchobby.be/fr/pybstick/1830-pybstick-lite-26-micropython-et-arduino-3232100018303-garatronic.html
+
 * RP2040
   * raspberrypi_pico : __done__
   * adafruit_feather_rp2040 : __done__
   * adafruit_itsybitsy_rp2040 : __done__
   * arduino_nano_rp2040 : https://blog.arduino.cc/2021/01/20/welcome-raspberry-pi-to-the-world-of-microcontrollers/
-  * pimoroni_pico_lipo : https://shop.pimoroni.com/products/pimoroni-pico-lipo
-  * pimoroni_tiny_2040 : https://shop.pimoroni.com/products/tiny-2040
+  * pimoroni_pico_lipo : __done__
+  * pimoroni_tiny_2040 : __done__
   * pimoroni_keybow_2040 : https://shop.pimoroni.com/products/keybow-2040
   * pimoroni_picosystem : https://shop.pimoroni.com/products/picosystem
-  * sparkfun_pro_mico_rp2040 : https://www.sparkfun.com/products/17717
-  * sparkfun_thing_plus_rp2040 : https://www.sparkfun.com/products/17745
-  * sparkfun_micromod_rp2040 : https://www.sparkfun.com/products/17720
+  * sparkfun_pro_micro_rp2040 : https://www.sparkfun.com/products/17717
+  * sparkfun_thing_plus_rp2040 : __done__
+  * sparkfun_micromod_rp2040 : __done__
+
 * Picom Boards
 * Micro:bit 1 & 2
 * Olimex ESP32 / 8366 boards
 * Adafruit ESP32 / ESP8266 board
+
 * DFRobot boards
   * to complete
+
 * M5Stack boards (ESP32 & TinyPico based)
   * to be complete
+
 * Risc-V boards
   * MAixDuino (support machine API)
 
@@ -49,8 +78,8 @@ Look of some boards are already compatible with MicroPython. Is automatic compil
 * rp2 : Raspberry-Pi
 * stm32
   * Olimex_E407 
-  * NADHAT_PYBF405 : DONE. __Why not dayly build?__
-  * Adafruit_F405_Express : __why not dayly build?__
+  * garatronic_pyb405 : __done__ _Why not dayly build?_
+  * Adafruit_F405_Express : _why not dayly build?_
   * HYDRABUS
   * B_L072Z_LRWAN1
   * B_L475E_IOT01A 
@@ -60,7 +89,7 @@ Look of some boards are already compatible with MicroPython. Is automatic compil
   * LIMIFROG 
   * LIMIFROG 
 
-# Remarks
+# Data organization
 __board_id__:
 
 The __board_id__ is a __unique board identifier__ used to name several ressourses about a given board.
