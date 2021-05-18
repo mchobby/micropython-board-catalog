@@ -5,7 +5,8 @@ Maintain data about MicroPython board capable.
 Here a list of board sheets/pictures to create.
 
 * https://micropython.org/download/
-  * PYBD SF3W & SF6W
+  * PYBD SF3W : __done__
+  * PYBD SF6W : 
   * adafruit_feather_stm32f405_express : https://www.adafruit.com/product/4382 (Adafruit Feather STM32F405 Express)
   * Nucleo & Discovery
   * Espruino Pico
@@ -23,8 +24,8 @@ Here a list of board sheets/pictures to create.
   * to complete for SparkFun
 
 * Generic ESP32
-  * adafruit_feather_esp32 : https://www.adafruit.com/product/3405
-  * adafruit_huzzah_esp32 : https://www.adafruit.com/product/4172
+  * adafruit_feather_esp32 : __done__
+  * adafruit_huzzah_esp32 : __done__
   * adafruit_airlift_esp32 : https://www.adafruit.com/product/4201 (update firmware: https://learn.adafruit.com/adafruit-airlift-breakout/upgrade-external-esp32-airlift-firmware )
   * olimex_esp32_devkit_lipo : https://www.olimex.com/Products/IoT/ESP32/ESP32-DevKit-LiPo/open-source-hardware
   * olimex_esp32_wrover_lipo : https://www.olimex.com/Products/IoT/ESP32/ESP32-DevKit-LiPo/open-source-hardware (to check, 8 MB PsRam)
@@ -52,22 +53,35 @@ Here a list of board sheets/pictures to create.
   * sparkfun_thing_plus_rp2040 : __done__
   * sparkfun_micromod_rp2040 : __done__
 
-* Picom Boards
+* Pycom Boards
 * Micro:bit 1 & 2
-* Olimex ESP32 / 8366 boards
-* Adafruit ESP32 / ESP8266 board
 
 * DFRobot boards
   * to complete
 
+
 * M5Stack boards (ESP32 & TinyPico based)
-  * to be complete
+  * m5stack_core_basic : https://docs.m5stack.com/en/core/basic (esp32)
+  * m5stack_core_gray : https://docs.m5stack.com/en/core/gray
+  * m5stack_core_face_kit : https://docs.m5stack.com/en/core/face_kit
+  * m5stack_m5go : https://docs.m5stack.com/en/core/m5go
+  * m5stack_core_fire : https://docs.m5stack.com/en/core/fire (PSRAM)
+  * m5stack_core2 : https://docs.m5stack.com/en/core/core2
+  * m5stack_m5stickc : https://docs.m5stack.com/en/core/m5stickc (ESP32-Pico)
+  * m5stack_m5stickc_plus : https://docs.m5stack.com/en/core/m5stickc_plus (ESP32-Pico) 
+  * m5stack_atom_lite : https://docs.m5stack.com/en/core/atom_lite
+  * m5stack_atom_matrix : https://docs.m5stack.com/en/core/atom_matrix
+  * m5stack_atom_echo : https://docs.m5stack.com/en/atom/atomecho
+  * m5stack_core2_aws : https://docs.m5stack.com/en/core/core2_for_aws
+  * m5stack_core_ink : https://docs.m5stack.com/en/core/coreink
 
 * Risc-V boards
   * MAixDuino (support machine API)
 
 __from MicroPython/ports__
+
 Look of some boards are already compatible with MicroPython. Is automatic compilation can be foreseen for them?
+
 * samd : some work started
 * teensy : __why not dayly build?__
 * Zephyr : Looks important
