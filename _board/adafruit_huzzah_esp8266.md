@@ -36,9 +36,12 @@ features:
 
 Add Internet to your next project with an adorable, bite-sized WiFi microcontroller, at a price you like! The ESP8266 processor from Espressif is an 80 MHz microcontroller with a full WiFi front-end (both as client and access point) and TCP/IP stack with DNS support as well. While this chip has been very popular, its also been very difficult to use. Most of the low cost modules are not breadboard friendly, don't have an onboard 500mA 3.3V regulator or level shifting, and aren't CE or FCC emitter certified....UNTIL NOW!
 
-The Adafruit HUZZAH ESP8266 breakout is what we designed to make working with this chip super easy and a lot of fun. Adafruit took a certified module with an onboard antenna, and plenty of pins, and soldered it onto our designed breakout PCBs.
 
-One breakout at the end has an "FTDI" pinout so you can plug in an [FTDI Friend](https://www.adafruit.com/product/284) or [console cable](https://www.adafruit.com/product/70) to upload MicroPython, Upload software and read/write script and see debugging information via the UART. Once the "FTDI" adapter plugged on the "FTDI port" the board will run as a Feather ESP8266.
+The Adafruit HUZZAH ESP8266 breakout is what Adafruit's designed to make working with this chip super easy and a lot of fun. Adafruit took a certified module with an onboard antenna, and plenty of pins, and soldered it onto our designed breakout PCBs.
+
+
+The end of the breakout have an "FTDI" pinout so you can plug in an [FTDI Friend](https://www.adafruit.com/product/284) or [console cable](https://www.adafruit.com/product/70) to upload MicroPython, Upload software and read/write script and see debugging information via the UART. Once the "FTDI" adapter plugged on the "FTDI port" the board will run as a Feather ESP8266.
+
 
 When you're done with your coding, remove the cable, and this little module can be embeded into your project box.
 

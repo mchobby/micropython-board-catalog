@@ -18,8 +18,8 @@ Here a list of board sheets/pictures to create.
 * Generic ESP8266
   * adafruit_feather_esp8266 : __done__ 
   * adafruit_huzzah_esp8266 : __done__
-  * olimex_esp8266_dev : https://www.olimex.com/Products/IoT/ESP8266/MOD-WIFI-ESP8266-DEV/open-source-hardware
-  * olimex_esp8266_evb : https://www.olimex.com/Products/IoT/ESP8266/ESP8266-EVB/open-source-hardware
+  * olimex_esp8266_dev : __done__
+  * olimex_esp8266_evb : __done__
   * to complete for Pimoroni
   * to complete for SparkFun
 
@@ -27,12 +27,12 @@ Here a list of board sheets/pictures to create.
   * adafruit_feather_esp32 : __done__
   * adafruit_huzzah_esp32 : __done__
   * adafruit_airlift_esp32 : https://www.adafruit.com/product/4201 (update firmware: https://learn.adafruit.com/adafruit-airlift-breakout/upgrade-external-esp32-airlift-firmware )
-  * olimex_esp32_devkit_lipo : https://www.olimex.com/Products/IoT/ESP32/ESP32-DevKit-LiPo/open-source-hardware
+  * olimex_esp32_devkit_lipo : __done__
   * olimex_esp32_wrover_lipo : https://www.olimex.com/Products/IoT/ESP32/ESP32-DevKit-LiPo/open-source-hardware (to check, 8 MB PsRam)
   * olimex_esp32_iso : https://www.olimex.com/Products/IoT/ESP32/ESP32-POE-ISO/open-source-hardware
   * olimex_esp32_poe : https://www.olimex.com/Products/IoT/ESP32/ESP32-POE/open-source-hardware
   * olimex_esp32_pro : https://www.olimex.com/Products/IoT/ESP32/ESP32-PRO/open-source-hardware (to check, 4 Mio Flash, 4 Mio PSRam)
-  * olimex_esp32_evb : https://www.olimex.com/Products/IoT/ESP32/ESP32-EVB/open-source-hardware 
+  * olimex_esp32_evb : __done__
   * olimex_esp32_gateway : https://www.olimex.com/Products/IoT/ESP32/ESP32-GATEWAY/open-source-hardware
   * to complete for Pimoroni
   * to complete for SparkFun
@@ -58,6 +58,9 @@ Here a list of board sheets/pictures to create.
 
 * DFRobot boards
   * to complete
+
+* Cytron.io
+  * cytron_maker_pi_rp2040 : https://www.cytron.io/p-maker-pi-rp2040-simplifying-robotics-with-raspberry-pi-rp2040 (image captured)
 
 
 * M5Stack boards (ESP32 & TinyPico based)
