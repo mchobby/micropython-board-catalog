@@ -34,6 +34,7 @@ Here a list of board sheets/pictures to create.
   * olimex_esp32_pro : https://www.olimex.com/Products/IoT/ESP32/ESP32-PRO/open-source-hardware (to check, 4 Mio Flash, 4 Mio PSRam)
   * olimex_esp32_evb : __done__
   * olimex_esp32_gateway : https://www.olimex.com/Products/IoT/ESP32/ESP32-GATEWAY/open-source-hardware
+  * myduino_hibiscus_sense : https://github.com/CytronTechnologies/MAKER-PI-RP2040/tree/main/Examples/MicroPython
   * to complete for Pimoroni
   * to complete for SparkFun
 
@@ -60,13 +61,13 @@ Here a list of board sheets/pictures to create.
   * to complete
 
 * Cytron.io
-  * cytron_maker_pi_rp2040 : https://www.cytron.io/p-maker-pi-rp2040-simplifying-robotics-with-raspberry-pi-rp2040 (image captured)
+  * cytron_maker_pi_rp2040 : __done__
 
 
 * M5Stack boards (ESP32 & TinyPico based)
-  * m5stack_core_basic : https://docs.m5stack.com/en/core/basic (esp32)
-  * m5stack_core_gray : https://docs.m5stack.com/en/core/gray
-  * m5stack_core_face_kit : https://docs.m5stack.com/en/core/face_kit
+  * m5stack_core_basic : __done__
+  * m5stack_core_gray : __done__
+  * m5stack_core_face_kit : __done__
   * m5stack_m5go : https://docs.m5stack.com/en/core/m5go
   * m5stack_core_fire : https://docs.m5stack.com/en/core/fire (PSRAM)
   * m5stack_core2 : https://docs.m5stack.com/en/core/core2
