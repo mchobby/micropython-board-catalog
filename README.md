@@ -6,7 +6,7 @@ Here a list of board sheets/pictures to create.
 
 * https://micropython.org/download/
   * PYBD SF3W : __done__
-  * PYBD SF6W : 
+  * PYBD SF6W :
   * adafruit_feather_stm32f405_express : https://www.adafruit.com/product/4382 (Adafruit Feather STM32F405 Express)
   * Nucleo & Discovery
   * Espruino Pico
@@ -16,7 +16,7 @@ Here a list of board sheets/pictures to create.
   * tinypico_tinypico : https://www.tinypico.com/ (see also https://www.adafruit.com/product/5028 )
 
 * Generic ESP8266
-  * adafruit_feather_esp8266 : __done__ 
+  * adafruit_feather_esp8266 : __done__
   * adafruit_huzzah_esp8266 : __done__
   * olimex_esp8266_dev : __done__
   * olimex_esp8266_evb : __done__
@@ -55,6 +55,12 @@ Here a list of board sheets/pictures to create.
   * sparkfun_micromod_rp2040 : __done__
 
 * Pycom Boards
+  * pycom_wipy3 : https://pycom.io/product/wipy-3-0/  (support aussi ESP32 Lobiris)
+  * pycom_sipy : https://pycom.io/product/sipy/
+  * pycom_lopy4 : https://pycom.io/product/lopy4/
+  * pycom_gpy : https://pycom.io/product/gpy/
+  * pycom_fipy : https://pycom.io/product/fipy/
+
 * Micro:bit 1 & 2
 
 * DFRobot boards
@@ -68,11 +74,11 @@ Here a list of board sheets/pictures to create.
   * m5stack_core_basic : __done__
   * m5stack_core_gray : __done__
   * m5stack_core_face_kit : __done__
-  * m5stack_m5go : https://docs.m5stack.com/en/core/m5go
-  * m5stack_core_fire : https://docs.m5stack.com/en/core/fire (PSRAM)
+  * m5stack_m5go : __done__
+  * m5stack_core_fire : __done__
   * m5stack_core2 : https://docs.m5stack.com/en/core/core2
   * m5stack_m5stickc : https://docs.m5stack.com/en/core/m5stickc (ESP32-Pico)
-  * m5stack_m5stickc_plus : https://docs.m5stack.com/en/core/m5stickc_plus (ESP32-Pico) 
+  * m5stack_m5stickc_plus : https://docs.m5stack.com/en/core/m5stickc_plus (ESP32-Pico)
   * m5stack_atom_lite : https://docs.m5stack.com/en/core/atom_lite
   * m5stack_atom_matrix : https://docs.m5stack.com/en/core/atom_matrix
   * m5stack_atom_echo : https://docs.m5stack.com/en/atom/atomecho
@@ -95,17 +101,17 @@ Look of some boards are already compatible with MicroPython. Is automatic compil
 * powerpc
 * rp2 : Raspberry-Pi
 * stm32
-  * Olimex_E407 
+  * Olimex_E407
   * garatronic_pyb405 : __done__ _Why not dayly build?_
   * Adafruit_F405_Express : _why not dayly build?_
   * HYDRABUS
   * B_L072Z_LRWAN1
-  * B_L475E_IOT01A 
+  * B_L475E_IOT01A
   * CERB40
-  * NetDuino plus 2 
+  * NetDuino plus 2
   * MIKROE_CLICKER2_STM32
-  * LIMIFROG 
-  * LIMIFROG 
+  * LIMIFROG
+  * LIMIFROG
 
 # Data organization
 __board_id__:
@@ -116,7 +122,7 @@ The identifier may already be listed down here upper.
 It is composed as follow:
 * lowercase only (a..z, 0..9, _)
 * underline (_) is the only special characters used.
-* Named as follow: <manufacturer>+"_"+<board_identification_code> . 
+* Named as follow: <manufacturer>+"_"+<board_identification_code> .
 * Manufacturer is one word only. Please keep unique manufacturer code. Eg: garatronic, olimex, adafruit, pycom.
 * board_identification_code can contains several word, "_" is used as space. E:. pybd_sf2w
 
@@ -124,7 +130,7 @@ __board file__:
 
 copy the template.md to _board/<board_id.md>
 
-Fill-up the target file. 
+Fill-up the target file.
 
 __Images__:
 
