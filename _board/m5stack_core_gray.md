@@ -52,16 +52,16 @@ The GRAY is M5 Core device. Its modular, stackable, scalable, and portable devic
 If you want to explore the fastest way of IoT prototyping, M5Stack development board is the perfect solution. Not like others, M5Stack development board is highly efficient, covered with industrial grade case and **ESP32-based** development board. It integrates with Wi-Fi & Bluetooth modules and contains a dual-core and 16MB of SPI Flash . Together with 30+ M5Stack stackable modules , 40+ extendable units and different levels of program language, you can create and verify your IoT product in a very short time.
 
 
-Supportive development platforms and programming languages: Arduino, Blockly language with UIFlow, Micropython. 
+Supportive development platforms and programming languages: Arduino, Blockly language with UIFlow, Micropython.
 
 
 M5Stack Core is consist with two separable parts. The upside part has all kinds of processors, chips and some other slot components. The bottom part has a lithium battery, M-BUS socket and extendable pins on both sides.
 
 
-See the __[https://github.com/m5stack/M5Stack_MicroPython M5Stack Micropython Base] GitHub repository__.
+See the __[M5Stack Micropython Base](https://github.com/m5stack/M5Stack_MicroPython) GitHub repository__.
 
 
-See the __[https://blog.flozz.fr/2019/07/15/micropython-sur-le-m5stack/ French MicroPython on M5Stack installation guide]__ by Flozz. 
+See the __[French MicroPython on M5Stack installation guide](https://blog.flozz.fr/2019/07/15/micropython-sur-le-m5stack/)__ by Flozz. 
 
 
 **Features:**
@@ -82,4 +82,3 @@ See the __[https://blog.flozz.fr/2019/07/15/micropython-sur-le-m5stack/ French M
 ## Contribute
 
 Have some info to add for this board? Edit the source for this page [here](https://github.com/mchobby/micropython-board-catalog/edit/master/_board/{{ page.board_id }}.md).
-

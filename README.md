@@ -20,6 +20,8 @@ Here a list of board sheets/pictures to create.
   * adafruit_huzzah_esp8266 : __done__
   * olimex_esp8266_dev : __done__
   * olimex_esp8266_evb : __done__
+  * wemos_d1_mini : https://www.wemos.cc/en/latest/d1/d1_mini.html
+  * wemos_d1_mini_pro : https://www.wemos.cc/en/latest/d1/d1_mini_pro.html
   * to complete for Pimoroni
   * to complete for SparkFun
 
@@ -35,6 +37,8 @@ Here a list of board sheets/pictures to create.
   * olimex_esp32_evb : __done__
   * olimex_esp32_gateway : https://www.olimex.com/Products/IoT/ESP32/ESP32-GATEWAY/open-source-hardware
   * myduino_hibiscus_sense : https://github.com/CytronTechnologies/MAKER-PI-RP2040/tree/main/Examples/MicroPython
+	* wemos_d32 : https://www.wemos.cc/en/latest/d32/d32.html
+  * wemos_d32_pro : https://www.wemos.cc/en/latest/d32/d32_pro.html
   * to complete for Pimoroni
   * to complete for SparkFun
 
@@ -77,7 +81,7 @@ Here a list of board sheets/pictures to create.
   * m5stack_m5go : __done__
   * m5stack_core_fire : __done__
   * m5stack_core2 : https://docs.m5stack.com/en/core/core2
-  * m5stack_m5stickc : https://docs.m5stack.com/en/core/m5stickc (ESP32-Pico)
+  * m5stack_m5stickc : __pending__ https://docs.m5stack.com/en/core/m5stickc (ESP32-Pico)
   * m5stack_m5stickc_plus : https://docs.m5stack.com/en/core/m5stickc_plus (ESP32-Pico)
   * m5stack_atom_lite : https://docs.m5stack.com/en/core/atom_lite
   * m5stack_atom_matrix : https://docs.m5stack.com/en/core/atom_matrix
@@ -87,6 +91,9 @@ Here a list of board sheets/pictures to create.
 
 * Risc-V boards
   * MAixDuino (support machine API)
+
+* W600
+  * wemos_w600_pico : https://www.wemos.cc/en/latest/w600/w600_pico.html
 
 __from MicroPython/ports__
 

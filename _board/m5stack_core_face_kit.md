@@ -43,10 +43,10 @@ features:
 **FACES Kit** is a series of functional panels integration for the M5Stack Core Gray (included, The GRAY is an update of the Core Basic). The FACES Kit Gray contains three most commonly used panels integration containing three most commonly used panels 'GameBoy'，'Calculator' and 'QWERTY'. With **MEGA328** processor built inside the panels, it works under slave mode through I2C communication protocol. With these 3 different panels, it will be very easy to support keyboard interaction with your M5Core.
 
 
-See the __[https://github.com/m5stack/M5Stack_MicroPython M5Stack Micropython Base] GitHub repository__.
+See the __[M5Stack Micropython Base](https://github.com/m5stack/M5Stack_MicroPython) GitHub repository__.
 
 
-See the __[https://blog.flozz.fr/2019/07/15/micropython-sur-le-m5stack/ French MicroPython on M5Stack installation guide]__ by Flozz. 
+See the __[French MicroPython on M5Stack installation guide](https://blog.flozz.fr/2019/07/15/micropython-sur-le-m5stack/)__ by Flozz. 
 
 
 **Features:**
@@ -69,4 +69,3 @@ See the __[https://blog.flozz.fr/2019/07/15/micropython-sur-le-m5stack/ French M
 ## Contribute
 
 Have some info to add for this board? Edit the source for this page [here](https://github.com/mchobby/micropython-board-catalog/edit/master/_board/{{ page.board_id }}.md).
-

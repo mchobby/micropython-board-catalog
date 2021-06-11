@@ -53,10 +53,10 @@ If you want to explore the fastest way of IoT prototyping, M5Stack development b
 Supportive development platforms and programming languages: Arduino, Blockly language with UIFlow, Micropython.
 
 
-See the __[https://github.com/m5stack/M5Stack_MicroPython M5Stack Micropython Base] GitHub repository__.
+See the __[M5Stack Micropython Base](https://github.com/m5stack/M5Stack_MicroPython) GitHub repository__.
 
 
-See the __[https://blog.flozz.fr/2019/07/15/micropython-sur-le-m5stack/ French MicroPython on M5Stack installation guide]__ by Flozz.
+See the __[French MicroPython on M5Stack installation guide](https://blog.flozz.fr/2019/07/15/micropython-sur-le-m5stack/)__ by Flozz.
 
 
 **Features:**

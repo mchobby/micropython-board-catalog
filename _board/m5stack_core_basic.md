@@ -53,10 +53,10 @@ Supportive development platforms and programming languages: Arduino, Blockly lan
 M5Stack Basic is consist with two separable parts. The upside part has all kinds of processors, chips and some other slot components. The bottom part has a lithium battery, M-BUS socket and extendable pins on both sides.
 
 
-See the __[https://github.com/m5stack/M5Stack_MicroPython M5Stack Micropython Base] GitHub repository__.
+See the __[M5Stack Micropython Base](https://github.com/m5stack/M5Stack_MicroPython) GitHub repository__.
 
 
-See the __[https://blog.flozz.fr/2019/07/15/micropython-sur-le-m5stack/ French MicroPython on M5Stack installation guide]__ by Flozz. 
+See the __[French MicroPython on M5Stack installation guide](https://blog.flozz.fr/2019/07/15/micropython-sur-le-m5stack/)__ by Flozz.
 
 
 **Features:**
@@ -75,4 +75,3 @@ See the __[https://blog.flozz.fr/2019/07/15/micropython-sur-le-m5stack/ French M
 ## Contribute
 
 Have some info to add for this board? Edit the source for this page [here](https://github.com/mchobby/micropython-board-catalog/edit/master/_board/{{ page.board_id }}.md).
-

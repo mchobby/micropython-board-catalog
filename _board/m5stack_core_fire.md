@@ -60,10 +60,10 @@ __PSRAM Notice:__
 
 The GPIO 16 / 17 in Fire is connected to the PSRAM by default, so when you connect or stack other function modules, you need to avoid conflicts with these two pins to prevent the device from working improperly and causing instability.
 
-See the __[https://github.com/m5stack/M5Stack_MicroPython M5Stack Micropython Base] GitHub repository__.
+See the __[M5Stack Micropython Base](https://github.com/m5stack/M5Stack_MicroPython) GitHub repository__.
 
 
-See the __[https://blog.flozz.fr/2019/07/15/micropython-sur-le-m5stack/ French MicroPython on M5Stack installation guide]__ by Flozz.
+See the __[French MicroPython on M5Stack installation guide](https://blog.flozz.fr/2019/07/15/micropython-sur-le-m5stack/)__ by Flozz.
 
 
 **Features:**
