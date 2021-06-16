@@ -9,7 +9,7 @@ board_url: "https://shop.m5stack.com/products/stick-c"
 board_image: "m5stack_m5stickc.jpg"
 date_added: 2020-6-11
 downloads_display: true
-download_instructions: "https://github.com/m5stack/M5Stack_MicroPython"
+download_instructions: "http://micropython.org/download/tinypico/"
 mcu: "ESP32-PICO-D4"
 gpio: "3"
 ram: "520"
@@ -53,10 +53,7 @@ It is built in a continually growing hardware and software ecosystem. It has a l
 Baud rate supported by M5StickC: 1200 ~115200, 250K, 500K, 750K, 1500K
 
 
-**TO CHECK** See the __[M5Stack Micropython Base](https://github.com/m5stack/M5Stack_MicroPython) GitHub repository__.
-
-
-**TO CHECK** See the __[French MicroPython on M5Stack installation guide](https://blog.flozz.fr/2019/07/15/micropython-sur-le-m5stack/)__ by Flozz.
+Accordingly to the M5Stack support, you can run the official [MicroPython for TinyPico](http://micropython.org/download/tinypico/) **but will lake of driver**. The st7735 display driver can easily be found with an Internet Search on "micropython ST7735S".
 
 
 **Features:**

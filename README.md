@@ -81,7 +81,7 @@ Here a list of board sheets/pictures to create.
   * m5stack_m5go : __done__
   * m5stack_core_fire : __done__
   * m5stack_core2 : https://docs.m5stack.com/en/core/core2
-  * m5stack_m5stickc : __pending__ https://docs.m5stack.com/en/core/m5stickc (ESP32-Pico)
+  * m5stack_m5stickc : __done__
   * m5stack_m5stickc_plus : https://docs.m5stack.com/en/core/m5stickc_plus (ESP32-Pico)
   * m5stack_atom_lite : https://docs.m5stack.com/en/core/atom_lite
   * m5stack_atom_matrix : https://docs.m5stack.com/en/core/atom_matrix
