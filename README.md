@@ -59,11 +59,11 @@ Here a list of board sheets/pictures to create.
   * sparkfun_micromod_rp2040 : __done__
 
 * Pycom Boards
-  * pycom_wipy3 : https://pycom.io/product/wipy-3-0/  (support aussi ESP32 Lobiris)
+  * pycom_wipy3 : __done__
   * pycom_sipy : https://pycom.io/product/sipy/
-  * pycom_lopy4 : https://pycom.io/product/lopy4/
-  * pycom_gpy : https://pycom.io/product/gpy/
-  * pycom_fipy : https://pycom.io/product/fipy/
+  * pycom_lopy4 : __done__
+  * pycom_gpy : __done__
+  * pycom_fipy : __done__
 
 * Micro:bit 1 & 2
 
@@ -121,6 +121,7 @@ Look of some boards are already compatible with MicroPython. Is automatic compil
   * LIMIFROG
 
 # Data organization
+
 __board_id__:
 
 The __board_id__ is a __unique board identifier__ used to name several ressourses about a given board.
