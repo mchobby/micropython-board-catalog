@@ -9,10 +9,10 @@ Here a list of board sheets/pictures to create.
   * PYBD SF6W :
   * adafruit_feather_stm32f405_express : https://www.adafruit.com/product/4382 (Adafruit Feather STM32F405 Express)
   * Nucleo & Discovery
-  * Espruino Pico
+  * espruino_pico : __done__
 
 * TinyPico
-  * tinypico_tinypico : https://www.tinypico.com/ (see also https://www.adafruit.com/product/5028 )
+  * tinypico_tinypico : __done__
 
 * Generic ESP8266
   * adafruit_feather_esp8266 : __done__
@@ -36,7 +36,7 @@ Here a list of board sheets/pictures to create.
   * olimex_esp32_evb : __done__
   * olimex_esp32_gateway : https://www.olimex.com/Products/IoT/ESP32/ESP32-GATEWAY/open-source-hardware
   * myduino_hibiscus_sense : https://github.com/CytronTechnologies/MAKER-PI-RP2040/tree/main/Examples/MicroPython
-	* wemos_d32 : https://www.wemos.cc/en/latest/d32/d32.html
+  * wemos_d32 : https://www.wemos.cc/en/latest/d32/d32.html
   * wemos_d32_pro : https://www.wemos.cc/en/latest/d32/d32_pro.html
   * to complete for Pimoroni
   * to complete for SparkFun
