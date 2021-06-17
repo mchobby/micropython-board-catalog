@@ -90,7 +90,7 @@ Here a list of board sheets/pictures to create.
   * m5stack_core_ink : https://docs.m5stack.com/en/core/coreink
 
 * Risc-V boards
-  * MAixDuino (support machine API)
+  * sipeed_maixduino : __done__
 
 * W600
   * wemos_w600_pico : https://www.wemos.cc/en/latest/w600/w600_pico.html
