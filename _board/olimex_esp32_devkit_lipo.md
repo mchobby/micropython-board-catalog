@@ -7,7 +7,7 @@ name: "ESP32-DevKit-LiPo : ESP32 WiFi/BLE Development board"
 manufacturer: "Olimex"
 board_url: "https://www.olimex.com/Products/IoT/ESP32/ESP32-DevKit-LiPo/open-source-hardware"
 board_image: "olimex_esp32_devkit_lipo.jpg"
-date_added: 2020-5-20
+date_added: 2021-5-20
 downloads_display: true
 download_instructions: "http://micropython.org/download/esp32/"
 mcu: "ESP-WROOM-32"

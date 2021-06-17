@@ -7,7 +7,7 @@ name: "GPy - LTE CAT-M1/NB1"
 manufacturer: "Pycom"
 board_url: "https://pycom.io/product/gpy/"
 board_image: "pycom_gpy.jpg"
-date_added: 2020-6-16
+date_added: 2021-6-16
 downloads_display: true
 download_instructions: "https://pycom.io/product/gpy/"
 mcu: "ESP32"

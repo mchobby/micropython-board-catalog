@@ -7,7 +7,7 @@ name: "Adafruit HUZZAH ESP8266 Breakout"
 manufacturer: "Adafruit Industries"
 board_url: "https://www.adafruit.com/product/2471"
 board_image: "adafruit_huzzah_esp8266.jpg"
-date_added: 2020-5-17
+date_added: 2021-5-17
 downloads_display: true
 download_instructions: "http://micropython.org/download/esp8266/"
 mcu: "ESP8266 SP-12"

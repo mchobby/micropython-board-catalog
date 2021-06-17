@@ -6,7 +6,7 @@ name: "Pyboard D-Series SF2W STM32F722"
 manufacturer: "George Robotics Limited"
 board_url: "https://store.micropython.org/product/PYBD-SF2-W4F2"
 board_image: "micropython_pybd_sf2w.jpg"
-date_added: 2020-3-31
+date_added: 2021-3-31
 downloads_display: true
 download_instructions: "https://micropython.org/download/pybd/"
 mcu: "STM32F722IEK"

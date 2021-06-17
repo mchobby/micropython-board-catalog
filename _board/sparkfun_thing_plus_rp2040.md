@@ -7,7 +7,7 @@ name: "SparkFun Thing Plus - RP2040"
 manufacturer: "SparkFun"
 board_url: "https://www.sparkfun.com/products/17745"
 board_image: "sparkfun_thing_plus_rp2040.jpg"
-date_added: 2020-5-16
+date_added: 2021-5-16
 downloads_display: true
 download_instructions: "https://micropython.org/download/rp2-pico/"
 mcu: "RP2040"

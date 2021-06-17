@@ -7,7 +7,7 @@ name: "MOD-WIFI-ESP8266-EVB : Development Board"
 manufacturer: "Olimex"
 board_url: "https://www.olimex.com/Products/IoT/ESP8266/ESP8266-EVB/open-source-hardware"
 board_image: "olimex_esp8266_evb.jpg"
-date_added: 2020-5-19
+date_added: 2021-5-19
 downloads_display: true
 download_instructions: "https://wiki.mchobby.be/index.php?title=FEATHER-CHARGER-MICROPYTHON-ESP8266-EN"
 mcu: "ESP8266EX"

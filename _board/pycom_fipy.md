@@ -7,7 +7,7 @@ name: "FiPy - 5 Networks"
 manufacturer: "Pycom"
 board_url: "https://pycom.io/product/fipy/"
 board_image: "pycom_fipy.jpg"
-date_added: 2020-6-16
+date_added: 2021-6-16
 downloads_display: true
 download_instructions: "https://pycom.io/product/fipy/"
 mcu: "ESP32"

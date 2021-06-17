@@ -6,7 +6,7 @@ name: "PYBStick 26 Standard"
 manufacturer: "Garatronic"
 board_url: "https://github.com/mchobby/pyboard-driver/tree/master/PYBStick"
 board_image: "shortname.jpg, EG: garatronic_pybstick26std.jpg"
-date_added: 2020-5-12
+date_added: 2021-5-12
 downloads_display: true
 download_instructions: "https://github.com/mchobby/pyboard-driver/tree/master/PYBStick/firmware"
 mcu: "STM32F411RE"

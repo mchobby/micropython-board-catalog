@@ -6,7 +6,7 @@ name: "NadHat PYB405"
 manufacturer: "Garatronic"
 board_url: "https://shop.mchobby.be/en/micropython/1653-micropython-pyb405-hat-nadhat-3232100016538-garatronic.html"
 board_image: "garatronic_pyb405.jpg"
-date_added: 2020-5-12
+date_added: 2021-5-12
 downloads_display: true
 download_instructions: "https://docs.garatronic.fr/pyb405.html"
 mcu: "STM32F405RG"

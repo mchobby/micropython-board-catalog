@@ -7,7 +7,7 @@ name: "Cytron Maker Pi RP2040"
 manufacturer: "Cytron"
 board_url: "https://www.cytron.io/p-maker-pi-rp2040-simplifying-robotics-with-raspberry-pi-rp2040"
 board_image: "raspberrypi_pico.jpg"
-date_added: 2020-6-2
+date_added: 2021-6-2
 downloads_display: true
 download_instructions: "https://micropython.org/download/rp2-pico/"
 mcu: "RP2040"

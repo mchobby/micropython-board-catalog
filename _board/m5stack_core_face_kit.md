@@ -7,7 +7,7 @@ name: "M5Stack Core Face Kit (ESP32) Board"
 manufacturer: "M5Stack"
 board_url: "https://docs.m5stack.com/en/core/face_kit"
 board_image: "m5stack_core_face_kit.jpg"
-date_added: 2020-6-2
+date_added: 2021-6-2
 downloads_display: true
 download_instructions: "https://github.com/m5stack/M5Stack_MicroPython"
 mcu: "ESP32-D0WDQ6"

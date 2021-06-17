@@ -7,7 +7,7 @@ name: "M5StickC ESP32-PICO Mini IoT Development Kit (ESP32-PICO) Board"
 manufacturer: "M5Stack"
 board_url: "https://shop.m5stack.com/products/stick-c"
 board_image: "m5stack_m5stickc.jpg"
-date_added: 2020-6-11
+date_added: 2021-6-11
 downloads_display: true
 download_instructions: "http://micropython.org/download/tinypico/"
 mcu: "ESP32-PICO-D4"

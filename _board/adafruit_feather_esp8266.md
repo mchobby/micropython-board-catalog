@@ -7,7 +7,7 @@ name: "Adafruit Feather HUZZAH ESP8266"
 manufacturer: "Adafruit Industries"
 board_url: "https://www.adafruit.com/product/2821"
 board_image: "adafruit_feather_esp8266.jpg"
-date_added: 2020-5-17
+date_added: 2021-5-17
 downloads_display: true
 download_instructions: "http://micropython.org/download/esp8266/"
 mcu: "ESP8266 ESP-F"

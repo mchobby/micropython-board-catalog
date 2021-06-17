@@ -7,7 +7,7 @@ name: "Pimoroni Pico Lipo"
 manufacturer: "Pimoroni"
 board_url: "https://shop.pimoroni.com/products/pimoroni-pico-lipo"
 board_image: "pimoroni_pico_lipo.jpg"
-date_added: 2020-5-16
+date_added: 2021-5-16
 downloads_display: true
 download_instructions: "https://micropython.org/download/rp2-pico/"
 mcu: "RP2040"

@@ -7,7 +7,7 @@ name: "TinyPico – Tiny Mighty ESP32"
 manufacturer: "TinyPico"
 board_url: "https://www.tinypico.com/"
 board_image: "tinypico_tinypico.jpg"
-date_added: 2020-6-11
+date_added: 2021-6-11
 downloads_display: true
 download_instructions: "https://micropython.org/download/tinypico/"
 mcu: "ESP32-PICO-D4"

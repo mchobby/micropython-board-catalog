@@ -7,7 +7,7 @@ name: "Adafruit Feather RP2040"
 manufacturer: "Adafruit Industries"
 board_url: "https://www.adafruit.com/product/4888"
 board_image: "adafruit_itsybitsy_rp2040.jpg"
-date_added: 2020-5-16
+date_added: 2021-5-16
 downloads_display: true
 download_instructions: "https://micropython.org/download/rp2-pico/"
 mcu: "RP2040"

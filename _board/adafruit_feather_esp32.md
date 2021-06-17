@@ -7,7 +7,7 @@ name: "Adafruit HUZZAH32 – ESP32 Feather Board"
 manufacturer: "Adafruit"
 board_url: "https://www.adafruit.com/product/3405"
 board_image: "adafruit_feather_esp32.jpg"
-date_added: 2020-5-17
+date_added: 2021-5-17
 downloads_display: true
 download_instructions: "http://micropython.org/download/esp32/"
 mcu: "ESP-WROOM-32"

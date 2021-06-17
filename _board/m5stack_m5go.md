@@ -7,7 +7,7 @@ name: "M5GO IoT Starter Kit (ESP32) Board"
 manufacturer: "M5Stack"
 board_url: "https://shop.m5stack.com/products/m5go-iot-starter-kit-stem-education"
 board_image: "m5stack_m5go.jpg"
-date_added: 2020-6-11
+date_added: 2021-6-11
 downloads_display: true
 download_instructions: "https://github.com/m5stack/M5Stack_MicroPython"
 mcu: "ESP32-D0WDQ6"

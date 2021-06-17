@@ -7,7 +7,7 @@ name: "Adafruit HUZZAH32 – ESP32 Breakout Board"
 manufacturer: "Adafruit"
 board_url: "https://www.adafruit.com/product/4172"
 board_image: "adafruit_huzzah_esp32.jpg"
-date_added: 2020-5-17
+date_added: 2021-5-17
 downloads_display: true
 download_instructions: "http://micropython.org/download/esp32/"
 mcu: "ESP32-WROOM-32E"

@@ -7,7 +7,7 @@ name: "ESP32-EVB : development board with WiFi BLE Ethernet micro SD card UEXT a
 manufacturer: "Olimex"
 board_url: "https://www.olimex.com/Products/IoT/ESP32/ESP32-EVB/open-source-hardware"
 board_image: "olimex_esp32_evb.jpg"
-date_added: 2020-5-20
+date_added: 2021-5-20
 downloads_display: true
 download_instructions: "http://micropython.org/download/esp32/"
 mcu: "ESP32-WROOM-32"

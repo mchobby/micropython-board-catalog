@@ -7,7 +7,7 @@ name: "SparkFun MicroMod RP2040 Processor"
 manufacturer: "Sparkfun"
 board_url: "https://www.sparkfun.com/products/17720"
 board_image: "sparkfun_micromod_rp2040.jpg"
-date_added: 2020-4-16
+date_added: 2021-4-16
 downloads_display: true
 download_instructions: "https://micropython.org/download/rp2-pico/"
 mcu: "RP2040"

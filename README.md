@@ -10,7 +10,6 @@ Here a list of board sheets/pictures to create.
   * adafruit_feather_stm32f405_express : https://www.adafruit.com/product/4382 (Adafruit Feather STM32F405 Express)
   * Nucleo & Discovery
   * Espruino Pico
-  * Wipy modules
 
 * TinyPico
   * tinypico_tinypico : https://www.tinypico.com/ (see also https://www.adafruit.com/product/5028 )

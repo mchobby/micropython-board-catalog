@@ -7,7 +7,7 @@ name: "WiPy 3.0"
 manufacturer: "Pycom"
 board_url: "https://pycom.io/product/wipy-3-0/"
 board_image: "pycom_wipy3.jpg"
-date_added: 2020-6-16
+date_added: 2021-6-16
 downloads_display: true
 download_instructions: "https://pycom.io/product/wipy-3-0/"
 mcu: "ESP32"

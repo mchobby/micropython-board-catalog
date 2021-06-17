@@ -7,7 +7,7 @@ name: "M5Stack FIRE IoT Development Kit (ESP32, PSRAM 2.0) Board"
 manufacturer: "M5Stack"
 board_url: "https://shop.m5stack.com/products/fire-iot-development-kit"
 board_image: "m5stack_core_fire.jpg"
-date_added: 2020-6-11
+date_added: 2021-6-11
 downloads_display: true
 download_instructions: "https://github.com/m5stack/M5Stack_MicroPython"
 mcu: "ESP32-D0WDQ6"

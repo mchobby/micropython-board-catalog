@@ -7,7 +7,7 @@ name: "Raspberry-Pi Pico"
 manufacturer: "Raspberry-Pi"
 board_url: "https://pico.raspberrypi.org"
 board_image: "raspberrypi_pico.jpg"
-date_added: 2020-5-16
+date_added: 2021-5-16
 downloads_display: true
 download_instructions: "https://micropython.org/download/rp2-pico/"
 mcu: "RP2040"

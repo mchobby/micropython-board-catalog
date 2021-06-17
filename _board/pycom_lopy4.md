@@ -7,7 +7,7 @@ name: "LoPy4"
 manufacturer: "Pycom"
 board_url: "https://pycom.io/product/lopy4/"
 board_image: "pycom_lopy4.jpg"
-date_added: 2020-6-16
+date_added: 2021-6-16
 downloads_display: true
 download_instructions: "https://pycom.io/product/lopy4/"
 mcu: "STM32"

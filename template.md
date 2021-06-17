@@ -7,7 +7,7 @@ name: "<board name, EG: PYBStick 26 Standard>"
 manufacturer: "<board manufacturer, EG: Garatronic>"
 board_url: "<url to board details + documentation>"
 board_image: "shortname.jpg, EG: garatronic_pybstick26std.jpg"
-date_added: 2020-3-31
+date_added: 2021-6-17
 downloads_display: true
 download_instructions: "<url to install MicroPython on that board>"
 mcu: "MCU identification, EG: STM32F411RE"
