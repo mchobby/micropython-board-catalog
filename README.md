@@ -4,11 +4,38 @@ Maintain data about MicroPython board capable.
 # TODO
 Here a list of board sheets/pictures to create.
 
-* https://micropython.org/download/
-  * PYBD SF3W : __done__
-  * PYBD SF6W :
+* STM32 based
+  * micropython_pybd_sf2w : __done__
+  * micropython_pybd_sf3w : 
+  * micropython_pybd_sf6w :
   * adafruit_feather_stm32f405_express : https://www.adafruit.com/product/4382 (Adafruit Feather STM32F405 Express)
-  * Nucleo & Discovery
+  * olimex_e407 : https://www.olimex.com/Products/ARM/ST/STM32-E407/open-source-hardware
+  * garatronic_pyb405 : __done__ 
+  * netduino_plus_2 : 
+  * nucleo_f091rc : https://www.st.com/en/evaluation-tools/nucleo-f091rc.html
+  * nucleo_f401re : https://www.st.com/en/evaluation-tools/nucleo-f401re.html
+  * nucleo_f411re : https://www.st.com/en/evaluation-tools/nucleo-f411re.html
+  * nucleo_f412zg : https://www.st.com/en/evaluation-tools/nucleo-f412zg.html
+  * nucleo_f413zh : https://www.st.com/en/evaluation-tools/nucleo-f413zh.html
+  * nucleo_f429zi : https://www.st.com/en/evaluation-tools/nucleo-f429zi.html
+  * nucleo_f446re : https://www.st.com/en/evaluation-tools/nucleo-f446re.html
+  * nucleo_f722ze : https://www.st.com/en/evaluation-tools/nucleo-f722ze.html
+  * nucleo_f746zg : https://www.st.com/en/evaluation-tools/nucleo-f746zg.html
+  * nucleo_f767zi : https://www.st.com/en/evaluation-tools/nucleo-f767zi.html
+  * nucleo_h743zi : https://www.st.com/en/evaluation-tools/nucleo-h743zi.html
+  * nucleo_l073rz : https://www.st.com/en/evaluation-tools/nucleo-l073rz.html
+  * nucleo_l432kc : https://www.st.com/en/evaluation-tools/nucleo-l432kc.html
+  * nucleo_l452re : https://www.st.com/en/evaluation-tools/nucleo-l452re.html
+  * nucleo_l476rg : https://www.st.com/en/evaluation-tools/nucleo-l476rg.html
+  * nucleo_wb55 : https://www.st.com/en/evaluation-tools/p-nucleo-wb55.html
+  * stm32f411disc
+  * stm32f429disc
+  * stm32f439
+  * stm32f4disc
+  * stm32f769disc
+  * stm32f7disc
+  * stm32l476disc
+  * stm32l496gdisc 
   * espruino_pico : __done__
 
 * TinyPico
@@ -141,16 +168,11 @@ Look of some boards are already compatible with MicroPython. Is automatic compil
 * powerpc
 * rp2 : Raspberry-Pi
 * stm32
-  * Olimex_E407
-  * garatronic_pyb405 : __done__ _Why not dayly build?_
-  * Adafruit_F405_Express : _why not dayly build?_
   * HYDRABUS
   * B_L072Z_LRWAN1
   * B_L475E_IOT01A
   * CERB40
-  * NetDuino plus 2
   * MIKROE_CLICKER2_STM32
-  * LIMIFROG
   * LIMIFROG
 
 # Data organization
