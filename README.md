@@ -28,14 +28,14 @@ Here a list of board sheets/pictures to create.
   * nucleo_l452re : https://www.st.com/en/evaluation-tools/nucleo-l452re.html
   * nucleo_l476rg : https://www.st.com/en/evaluation-tools/nucleo-l476rg.html
   * nucleo_wb55 : https://www.st.com/en/evaluation-tools/p-nucleo-wb55.html
-  * stm32f411disc
-  * stm32f429disc
-  * stm32f439
-  * stm32f4disc
-  * stm32f769disc
-  * stm32f7disc
-  * stm32l476disc
-  * stm32l496gdisc 
+  * stm32f411disc : https://www.st.com/en/evaluation-tools/32f411ediscovery.html
+  * stm32f429disc : https://www.st.com/en/evaluation-tools/32f429idiscovery.html
+  * stm32f439 : https://www.st.com/en/microcontrollers-microprocessors/stm32f429-439.html (no dev plateform)
+  * stm32f4disc : https://www.st.com/en/evaluation-tools/stm32f4discovery.html
+  * stm32f769disc : https://www.st.com/en/evaluation-tools/32f769idiscovery.html
+  * stm32f7disc : https://www.st.com/en/evaluation-tools/32f746gdiscovery.html
+  * stm32l476disc : https://www.digikey.com/en/products/detail/stmicroelectronics/STM32L476G-DISCO/5344355 (no longer manufactured)
+  * stm32l496gdisc : https://uk.farnell.com/stmicroelectronics/stm32l496g-disco/dev-board-cortex-m4-mcu/dp/2725136 (no longer manufactured)
   * espruino_pico : __done__
 
 * TinyPico
@@ -156,14 +156,22 @@ Look of some boards are already compatible with MicroPython. Is automatic compil
   * adafruit_metro_m4 : https://www.adafruit.com/product/3382
   * adafruit_metro_m4_airlift : https://www.adafruit.com/product/4000
 
-* teensy : __why not dayly build?__
 * Zephyr : Looks important
-* mimxrt
+
+* mimxrt :
   * adafruit_metro_m7 : https://www.adafruit.com/product/4950 (NXP iMX RT1011, compatible?)
+  * pjrc_teensy40 : https://www.pjrc.com/store/teensy40.html
+  * prjc_teensy41 : https://www.pjrc.com/store/teensy41.html
+  * nxp_MIMXRT1010_EVK : https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1010-evaluation-kit:MIMXRT1010-EVK
+ * nxp_mimxrt1020_evk : https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1020-evaluation-kit:MIMXRT1020-EVK
+ * nxp_mimxrt1050_evk : https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1050-evaluation-kit:MIMXRT1050-EVK
+ * nxp_mimxrt1060_evk : https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/mimxrt1060-evk-i-mx-rt1060-evaluation-kit:MIMXRT1060-EVK
+ * nxp_mimxrt1064_evk : https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/mimxrt1064-evk-i-mx-rt1064-evaluation-kit:MIMXRT1064-EVK
 
 * nrf
   * adafruit_feather_nrf52840_express : https://www.adafruit.com/product/4062 (????)
   * adafruit_feather_nrf52832 : https://www.adafruit.com/product/3406 (????)
+
 * pic16bit
 * powerpc
 * rp2 : Raspberry-Pi
