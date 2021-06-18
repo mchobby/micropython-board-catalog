@@ -163,10 +163,10 @@ Look of some boards are already compatible with MicroPython. Is automatic compil
   * pjrc_teensy40 : https://www.pjrc.com/store/teensy40.html
   * prjc_teensy41 : https://www.pjrc.com/store/teensy41.html
   * nxp_MIMXRT1010_EVK : https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1010-evaluation-kit:MIMXRT1010-EVK
- * nxp_mimxrt1020_evk : https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1020-evaluation-kit:MIMXRT1020-EVK
- * nxp_mimxrt1050_evk : https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1050-evaluation-kit:MIMXRT1050-EVK
- * nxp_mimxrt1060_evk : https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/mimxrt1060-evk-i-mx-rt1060-evaluation-kit:MIMXRT1060-EVK
- * nxp_mimxrt1064_evk : https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/mimxrt1064-evk-i-mx-rt1064-evaluation-kit:MIMXRT1064-EVK
+  * nxp_mimxrt1020_evk : https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1020-evaluation-kit:MIMXRT1020-EVK
+  * nxp_mimxrt1050_evk : https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt1050-evaluation-kit:MIMXRT1050-EVK
+  * nxp_mimxrt1060_evk : https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/mimxrt1060-evk-i-mx-rt1060-evaluation-kit:MIMXRT1060-EVK
+  * nxp_mimxrt1064_evk : https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/mimxrt1064-evk-i-mx-rt1064-evaluation-kit:MIMXRT1064-EVK
 
 * nrf
   * adafruit_feather_nrf52840_express : https://www.adafruit.com/product/4062 (????)
