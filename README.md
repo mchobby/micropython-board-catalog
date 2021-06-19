@@ -6,12 +6,12 @@ Here a list of board sheets/pictures to create.
 
 * STM32 based
   * micropython_pybd_sf2w : __done__
-  * micropython_pybd_sf3w : 
-  * micropython_pybd_sf6w :
+  * micropython_pybd_sf3w : __done__
+  * micropython_pybd_sf6w : __done__
   * adafruit_feather_stm32f405_express : https://www.adafruit.com/product/4382 (Adafruit Feather STM32F405 Express)
   * olimex_e407 : https://www.olimex.com/Products/ARM/ST/STM32-E407/open-source-hardware
   * garatronic_pyb405 : __done__ 
-  * netduino_plus_2 : 
+  * netduino_plus_2 : discontinued
   * nucleo_f091rc : https://www.st.com/en/evaluation-tools/nucleo-f091rc.html
   * nucleo_f401re : https://www.st.com/en/evaluation-tools/nucleo-f401re.html
   * nucleo_f411re : https://www.st.com/en/evaluation-tools/nucleo-f411re.html
@@ -199,11 +199,11 @@ It is composed as follow:
 
 __board file__:
 
-copy the template.md to _board/<board_id.md>
+copy the template.md to _board/<board_id>.md
 
 Fill-up the target file.
 
 __Images__:
 
-* /assets/images/boards/large : contains board jpeg @ 800 x 600px. Named with <board_id.jpg>
-* /assets/images/boards/small : contains board jpeg @ 300 x 225px. Named with <board_id.jpg>
+* /assets/images/boards/large : contains board jpeg @ 800 x 600px. Named with <board_id>.jpg
+* /assets/images/boards/small : contains board jpeg @ 300 x 225px. Named with <board_id>.jpg
