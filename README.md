@@ -46,8 +46,8 @@ Here a list of board sheets/pictures to create.
   * adafruit_huzzah_esp8266 : __done__
   * olimex_esp8266_dev : __done__
   * olimex_esp8266_evb : __done__
-  * wemos_d1_mini : https://www.wemos.cc/en/latest/d1/d1_mini.html
-  * wemos_d1_mini_pro : https://www.wemos.cc/en/latest/d1/d1_mini_pro.html
+  * wemos_d1_mini : __done__
+  * wemos_d1_mini_pro : __done__
   * to complete for Pimoroni
   * to complete for SparkFun
 
@@ -63,7 +63,7 @@ Here a list of board sheets/pictures to create.
   * olimex_esp32_evb : __done__
   * olimex_esp32_gateway : https://www.olimex.com/Products/IoT/ESP32/ESP32-GATEWAY/open-source-hardware
   * myduino_hibiscus_sense : https://github.com/CytronTechnologies/MAKER-PI-RP2040/tree/main/Examples/MicroPython
-  * wemos_d32 : https://www.wemos.cc/en/latest/d32/d32.html
+  * wemos_d32 : __done__
   * wemos_d32_pro : https://www.wemos.cc/en/latest/d32/d32_pro.html
   * to complete for Pimoroni
   * to complete for SparkFun
