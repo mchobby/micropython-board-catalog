@@ -1,7 +1,32 @@
 # micropython-board-catalog
 Maintain data about MicroPython board capable.
 
-# TODO
+# Data organization
+
+__board_id__:
+
+The __board_id__ is a __unique board identifier__ used to name several ressourses about a given board.
+The identifier may already be listed down here upper.
+
+It is composed as follow:
+* lowercase only (a..z, 0..9, _)
+* underline (_) is the only special characters used.
+* Named as follow: <manufacturer>+"_"+<board_identification_code> .
+* Manufacturer is one word only. Please keep unique manufacturer code. Eg: garatronic, olimex, adafruit, pycom.
+* board_identification_code can contains several word, "_" is used as space. E:. pybd_sf2w
+
+__board file__:
+
+copy the template.md to _board/<board_id>.md
+
+Fill-up the target file.
+
+__Images__:
+
+* /assets/images/boards/large : contains board jpeg @ 800 x 600px. Named with <board_id>.jpg
+* /assets/images/boards/small : contains board jpeg @ 300 x 225px. Named with <board_id>.jpg
+
+# TODO list
 Here a list of board sheets/pictures to create.
 
 * STM32 based
@@ -13,7 +38,7 @@ Here a list of board sheets/pictures to create.
   * garatronic_pyb405 : __done__ 
   * netduino_plus_2 : discontinued
   * nucleo_f091rc : https://www.st.com/en/evaluation-tools/nucleo-f091rc.html
-  * nucleo_f401re : https://www.st.com/en/evaluation-tools/nucleo-f401re.html
+  * nucleo_f401re : __done__
   * nucleo_f411re : https://www.st.com/en/evaluation-tools/nucleo-f411re.html
   * nucleo_f412zg : https://www.st.com/en/evaluation-tools/nucleo-f412zg.html
   * nucleo_f413zh : https://www.st.com/en/evaluation-tools/nucleo-f413zh.html
@@ -183,27 +208,3 @@ Look of some boards are already compatible with MicroPython. Is automatic compil
   * MIKROE_CLICKER2_STM32
   * LIMIFROG
 
-# Data organization
-
-__board_id__:
-
-The __board_id__ is a __unique board identifier__ used to name several ressourses about a given board.
-The identifier may already be listed down here upper.
-
-It is composed as follow:
-* lowercase only (a..z, 0..9, _)
-* underline (_) is the only special characters used.
-* Named as follow: <manufacturer>+"_"+<board_identification_code> .
-* Manufacturer is one word only. Please keep unique manufacturer code. Eg: garatronic, olimex, adafruit, pycom.
-* board_identification_code can contains several word, "_" is used as space. E:. pybd_sf2w
-
-__board file__:
-
-copy the template.md to _board/<board_id>.md
-
-Fill-up the target file.
-
-__Images__:
-
-* /assets/images/boards/large : contains board jpeg @ 800 x 600px. Named with <board_id>.jpg
-* /assets/images/boards/small : contains board jpeg @ 300 x 225px. Named with <board_id>.jpg
