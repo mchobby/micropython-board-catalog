@@ -37,30 +37,30 @@ Here a list of board sheets/pictures to create.
   * olimex_e407 : https://www.olimex.com/Products/ARM/ST/STM32-E407/open-source-hardware
   * garatronic_pyb405 : __done__ 
   * netduino_plus_2 : discontinued
-  * nucleo_f091rc : https://www.st.com/en/evaluation-tools/nucleo-f091rc.html
-  * nucleo_f401re : __done__
-  * nucleo_f411re : https://www.st.com/en/evaluation-tools/nucleo-f411re.html
-  * nucleo_f412zg : https://www.st.com/en/evaluation-tools/nucleo-f412zg.html
-  * nucleo_f413zh : https://www.st.com/en/evaluation-tools/nucleo-f413zh.html
-  * nucleo_f429zi : https://www.st.com/en/evaluation-tools/nucleo-f429zi.html
-  * nucleo_f446re : https://www.st.com/en/evaluation-tools/nucleo-f446re.html
-  * nucleo_f722ze : https://www.st.com/en/evaluation-tools/nucleo-f722ze.html
-  * nucleo_f746zg : https://www.st.com/en/evaluation-tools/nucleo-f746zg.html
-  * nucleo_f767zi : https://www.st.com/en/evaluation-tools/nucleo-f767zi.html
-  * nucleo_h743zi : https://www.st.com/en/evaluation-tools/nucleo-h743zi.html
-  * nucleo_l073rz : https://www.st.com/en/evaluation-tools/nucleo-l073rz.html
-  * nucleo_l432kc : https://www.st.com/en/evaluation-tools/nucleo-l432kc.html
-  * nucleo_l452re : https://www.st.com/en/evaluation-tools/nucleo-l452re.html
-  * nucleo_l476rg : https://www.st.com/en/evaluation-tools/nucleo-l476rg.html
-  * nucleo_wb55 : https://www.st.com/en/evaluation-tools/p-nucleo-wb55.html
-  * stm32f411disc : https://www.st.com/en/evaluation-tools/32f411ediscovery.html
-  * stm32f429disc : https://www.st.com/en/evaluation-tools/32f429idiscovery.html
-  * stm32f439 : https://www.st.com/en/microcontrollers-microprocessors/stm32f429-439.html (no dev plateform)
-  * stm32f4disc : https://www.st.com/en/evaluation-tools/stm32f4discovery.html
-  * stm32f769disc : https://www.st.com/en/evaluation-tools/32f769idiscovery.html
-  * stm32f7disc : https://www.st.com/en/evaluation-tools/32f746gdiscovery.html
-  * stm32l476disc : https://www.digikey.com/en/products/detail/stmicroelectronics/STM32L476G-DISCO/5344355 (no longer manufactured)
-  * stm32l496gdisc : https://uk.farnell.com/stmicroelectronics/stm32l496g-disco/dev-board-cortex-m4-mcu/dp/2725136 (no longer manufactured)
+  * st_nucleo_f091rc : https://www.st.com/en/evaluation-tools/nucleo-f091rc.html
+  * st_nucleo_f401re : __done__
+  * st_nucleo_f411re : https://www.st.com/en/evaluation-tools/nucleo-f411re.html
+  * st_nucleo_f412zg : https://www.st.com/en/evaluation-tools/nucleo-f412zg.html
+  * st_nucleo_f413zh : https://www.st.com/en/evaluation-tools/nucleo-f413zh.html
+  * st_nucleo_f429zi : https://www.st.com/en/evaluation-tools/nucleo-f429zi.html
+  * st_nucleo_f446re : https://www.st.com/en/evaluation-tools/nucleo-f446re.html
+  * st_nucleo_f722ze : https://www.st.com/en/evaluation-tools/nucleo-f722ze.html
+  * st_nucleo_f746zg : https://www.st.com/en/evaluation-tools/nucleo-f746zg.html
+  * st_nucleo_f767zi : https://www.st.com/en/evaluation-tools/nucleo-f767zi.html
+  * st_nucleo_h743zi : https://www.st.com/en/evaluation-tools/nucleo-h743zi.html
+  * st_nucleo_l073rz : https://www.st.com/en/evaluation-tools/nucleo-l073rz.html
+  * st_nucleo_l432kc : https://www.st.com/en/evaluation-tools/nucleo-l432kc.html
+  * st_nucleo_l452re : https://www.st.com/en/evaluation-tools/nucleo-l452re.html
+  * st_nucleo_l476rg : https://www.st.com/en/evaluation-tools/nucleo-l476rg.html
+  * st_nucleo_wb55 : https://www.st.com/en/evaluation-tools/p-nucleo-wb55.html
+  * st_stm32f411disc : https://www.st.com/en/evaluation-tools/32f411ediscovery.html
+  * st_stm32f429disc : https://www.st.com/en/evaluation-tools/32f429idiscovery.html
+  * st_stm32f439 : https://www.st.com/en/microcontrollers-microprocessors/stm32f429-439.html (no dev plateform)
+  * st_stm32f4disc : https://www.st.com/en/evaluation-tools/stm32f4discovery.html
+  * st_stm32f769disc : https://www.st.com/en/evaluation-tools/32f769idiscovery.html
+  * st_stm32f7disc : https://www.st.com/en/evaluation-tools/32f746gdiscovery.html
+  * st_stm32l476disc : https://www.digikey.com/en/products/detail/stmicroelectronics/STM32L476G-DISCO/5344355 (no longer manufactured)
+  * st_stm32l496gdisc : https://uk.farnell.com/stmicroelectronics/stm32l496g-disco/dev-board-cortex-m4-mcu/dp/2725136 (no longer manufactured)
   * espruino_pico : __done__
 
 * TinyPico
