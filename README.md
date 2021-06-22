@@ -35,7 +35,7 @@ Here a list of board sheets/pictures to create.
   * micropython_pybd_sf6w : __done__
   * adafruit_feather_stm32f405_express : https://www.adafruit.com/product/4382 (Adafruit Feather STM32F405 Express)
   * olimex_e407 : https://www.olimex.com/Products/ARM/ST/STM32-E407/open-source-hardware
-  * garatronic_pyb405 : __done__ 
+  * garatronic_pyb405 : __done__
   * netduino_plus_2 : discontinued
   * st_nucleo_f091rc : https://www.st.com/en/evaluation-tools/nucleo-f091rc.html
   * st_nucleo_f401re : __done__
@@ -61,6 +61,7 @@ Here a list of board sheets/pictures to create.
   * st_stm32f7disc : https://www.st.com/en/evaluation-tools/32f746gdiscovery.html
   * st_stm32l476disc : https://www.digikey.com/en/products/detail/stmicroelectronics/STM32L476G-DISCO/5344355 (no longer manufactured)
   * st_stm32l496gdisc : https://uk.farnell.com/stmicroelectronics/stm32l496g-disco/dev-board-cortex-m4-mcu/dp/2725136 (no longer manufactured)
+  * weact_stm32f411_blackpill :  https://www.dfrobot.com/product-2338.html , https://github.com/mcauser/WEACT_F411CEU6
   * espruino_pico : __done__
 
 * TinyPico
@@ -73,6 +74,7 @@ Here a list of board sheets/pictures to create.
   * olimex_esp8266_evb : __done__
   * wemos_d1_mini : __done__
   * wemos_d1_mini_pro : __done__
+  * dfrobot_firebeetle_esp8266 : https://www.dfrobot.com/product-1634.html (DFR0489)
   * to complete for Pimoroni
   * to complete for SparkFun
 
@@ -90,6 +92,9 @@ Here a list of board sheets/pictures to create.
   * myduino_hibiscus_sense : https://github.com/CytronTechnologies/MAKER-PI-RP2040/tree/main/Examples/MicroPython
   * wemos_d32 : __done__
   * wemos_d32_pro : https://www.wemos.cc/en/latest/d32/d32_pro.html
+  * dfrobot_firebeetle_esp32 : https://www.dfrobot.com/product-1590.html (DFR0478)
+  * dfrobot_firebeetle_esp32e : https://www.dfrobot.com/product-2195.html (DFR0654, to check)
+  * dfrobot_beetle_esp32 : https://www.dfrobot.com/product-1798.html (DFR0575)
   * to complete for Pimoroni
   * to complete for SparkFun
 
@@ -147,7 +152,7 @@ Here a list of board sheets/pictures to create.
   * sipeed_maixgo : https://www.seeedstudio.com/Sipeed-MAix-GO-Suit-for-RISC-V-AI-IoT-p-2874.html
   * sipeed_maix_amigo : https://www.seeedstudio.com/Sipeed-Maix-Amigo-p-4689.html
   * sipeed_maixcube : https://www.seeedstudio.com/Sipeed-Maix-Cube-p-4553.html
-  * sipeed_n1m : https://www.seeedstudio.com/Sipeed-M1n-Module-AI-Development-Kit-based-on-K210-p-4491.html 
+  * sipeed_n1m : https://www.seeedstudio.com/Sipeed-M1n-Module-AI-Development-Kit-based-on-K210-p-4491.html
   * m5stack_unitv_k210_ov7740 : https://shop.m5stack.com/products/unitv-k210-edge-computing-ai-camera-ov7740 (seen someone uploaded MaixPy on it)
   * m5stack_unitv_k210_ov2640 : https://shop.m5stack.com/products/unitv-ai-camera
   * m5stack_m5stickv-k210 : https://shop.m5stack.com/products/stickv
@@ -159,7 +164,7 @@ __from MicroPython/ports__
 
 Look of some boards are already compatible with MicroPython. Is automatic compilation can be foreseen for them?
 
-* samd 21: **MicroPython support still under development** 
+* samd 21: **MicroPython support still under development**
   * seeedstudio_xiao : https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html
   * seeedstudio_rephone_2g : https://www.seeedstudio.com/RePhone-core-2G-AtmelSAMD21-p-2775.html
   * adafruit_trinket_m0 : https://www.adafruit.com/product/3500
@@ -172,8 +177,9 @@ Look of some boards are already compatible with MicroPython. Is automatic compil
   * adafruit_metro_m0 : https://www.adafruit.com/product/3505
   * arduino_mkr_zero : https://store.arduino.cc/arduino-mkr-zero-i2s-bus-sd-for-sound-music-digital-audio-data?queryID=undefined
   * arduino_zero : https://store.arduino.cc/arduino-zero
+  * dfrobot_firebeetle_m0 : https://www.dfrobot.com/product-2095.html (DFR0652, ATSAMD21G18)
   * arduino_mkr1010 : https://store.arduino.cc/arduino-mkr-wifi-1010
-   
+
 * samd 51: **MicroPython support still under development**
   * seeedstudio_wio_terminal : https://www.seeedstudio.com/Wio-Terminal-p-4509.html
   * adafruit_itsybitsy_m4_express : https://www.adafruit.com/product/3800
@@ -207,4 +213,3 @@ Look of some boards are already compatible with MicroPython. Is automatic compil
   * CERB40
   * MIKROE_CLICKER2_STM32
   * LIMIFROG
-
