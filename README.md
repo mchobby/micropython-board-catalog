@@ -140,7 +140,7 @@ Here a list of board sheets/pictures to create.
   * m5stack_core2 : https://docs.m5stack.com/en/core/core2
   * m5stack_m5stickc : __done__
   * m5stack_m5stickc_plus : https://docs.m5stack.com/en/core/m5stickc_plus (ESP32-Pico)
-  * m5stack_atom_lite : https://docs.m5stack.com/en/core/atom_lite
+  * m5stack_atom_lite : https://docs.m5stack.com/en/core/atom_lite (M5STACK_ATOM board definition)
   * m5stack_atom_matrix : https://docs.m5stack.com/en/core/atom_matrix
   * m5stack_atom_echo : https://docs.m5stack.com/en/atom/atomecho
   * m5stack_core2_aws : https://docs.m5stack.com/en/core/core2_for_aws
@@ -202,6 +202,11 @@ Look of some boards are already compatible with MicroPython. Is automatic compil
 * nrf
   * adafruit_feather_nrf52840_express : https://www.adafruit.com/product/4062 (????)
   * adafruit_feather_nrf52832 : https://www.adafruit.com/product/3406 (????)
+	* evk_nina_b3 (Added definition for board, MicroPython 1.16)
+
+* ESP32
+  * UM_FEATHERS2 (Added definition for board, MicroPython 1.16)
+  * UM_TINYS2 (Added definition for board, MicroPython 1.16)
 
 * pic16bit
 * powerpc
@@ -213,3 +218,5 @@ Look of some boards are already compatible with MicroPython. Is automatic compil
   * CERB40
   * MIKROE_CLICKER2_STM32
   * LIMIFROG
+	* VCC_GND_F407VE (added @ micropython 1.16)
+	* VCC_GND_F407ZG (added @ micropython 1.16)
